@@ -15,6 +15,7 @@ I'm [Jonathan Feng]()
 - 🌱 I’m currently learning cloud technologies
 - ✨ Fun fact: I love building custom mechanical keyboards and making my own coffee <3
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##### General Skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="30" height="30"/>
@@ -26,5 +27,6 @@ I'm [Jonathan Feng]()
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
 </div>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##### DE Skills
 -- WIP --
