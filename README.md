@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/j-feng/">
   <img align="left" alt="Jay-Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a></br>
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
