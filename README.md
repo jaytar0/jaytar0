@@ -8,7 +8,7 @@
 
 I'm [Jonathan Feng]()
 
-- 🛠️ I was formerly a Technical Engineer (contractor) at [Synopsys]()
+- 🛠️ I was formerly a Technical Engineer at [Synopsys]()
 - 💬 Curerntly searching for a job in the data analyst/engineer space
 - 🔭 In the meantime I'm working on some personal projects that interest me within the data industry
 - 🌱 I’m currently learning cloud technologies
