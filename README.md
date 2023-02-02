@@ -29,4 +29,13 @@ I'm [Jonathan Feng]()
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### DE Skills
--- WIP --
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Pgsql" **alt="Pgsql" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" title="Sqlite" **alt="Sqlite" width="30" height="30"/>
+  <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" title="Snowflake"  alt="Snowflake" width="30" height="30"/>
+
+  <img src="https://w7.pngwing.com/pngs/937/843/png-transparent-airflow-airbnb-data-engineering-workflow-reflection-miscellaneous-symmetry-engineering-thumbnail.png" title="airflow" alt="airflow" width="30" height="30"/>
+  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png"  title="dbt" alt="dbt" width="30" height="30"/>
+  <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" title="looker" alt="looker" width="30" height="30"/>
+</div>
+
