@@ -36,6 +36,6 @@ I'm [Jonathan Feng]()
 
   <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" title="airflow" alt="airflow" width="30" height="30"/>
   <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png"  title="dbt" alt="dbt" width="30" height="30"/>
-  <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" title="looker" alt="looker" width="30" height="30"/>
+  <img src="https://user-images.githubusercontent.com/25474239/28386245-9a1f06d2-6c90-11e7-8095-ff19b586c9ab.png" title="looker" alt="looker" width="30" height="30"/>
 </div>
 
