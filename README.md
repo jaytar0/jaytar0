@@ -1,10 +1,5 @@
 ### Oh hello there! 👋
 
-
-<a href="https://www.linkedin.com/in/j-feng/">
-  <img align="left" alt="Jay-Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 I'm [Jonathan Feng]()
 
 
@@ -15,7 +10,7 @@ I'm [Jonathan Feng]()
 - ✨ Fun fact: I love building custom mechanical keyboards and making my own coffee <3
 
 
-### General Skills:
+#### General Programming Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="30" height="30"/>
@@ -27,7 +22,7 @@ I'm [Jonathan Feng]()
 </div>
 
 
-### Data Analytics | Analytics Skills:
+#### Data Analytics | Engineering Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Pgsql" **alt="Pgsql" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" **alt="Sqlite" width="30" height="30"/>
@@ -38,3 +33,9 @@ I'm [Jonathan Feng]()
   <img src="https://user-images.githubusercontent.com/25474239/28386245-9a1f06d2-6c90-11e7-8095-ff19b586c9ab.png" title="looker" alt="looker" width="30" height="30"/>
 </div>
 
+
+#### Socials
+
+<a href="https://www.linkedin.com/in/j-feng/">
+  <img align="left" alt="Jay-Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
