@@ -1,4 +1,4 @@
-### Oh hello there! 👋
+## Welcome to my portfolio archives!
 
 I'm [Jonathan Feng]()
 
@@ -10,7 +10,7 @@ I'm [Jonathan Feng]()
 - ✨ Fun fact: I love building custom mechanical keyboards and making my own coffee <3
 
 
-#### General Programming Skills:
+##### General Programming Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="30" height="30"/>
@@ -22,7 +22,7 @@ I'm [Jonathan Feng]()
 </div>
 
 
-#### Data Analytics | Engineering Skills:
+##### Data Analytics | Engineering Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Pgsql" **alt="Pgsql" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" **alt="Sqlite" width="30" height="30"/>
