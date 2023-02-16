@@ -15,7 +15,7 @@ I'm [Jonathan Feng]()
 
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)](https://)
 [![R](https://img.shields.io/badge/R-grey?style=for-the-badge&logo=r&logoColor=blue)](https://)
-[![mysql](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=black)](https://)
+[![mysql](https://img.shields.io/badge/mysql-teal?style=for-the-badge&logo=mysql&logoColor=white)](https://)
 [![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)](https://)
 [![css](https://img.shields.io/badge/css-red?style=for-the-badge&logo=css3&logoColor=white)](https://)
 [![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://)
