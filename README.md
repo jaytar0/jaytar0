@@ -1,6 +1,4 @@
-### Welcome to my portfolio!
-
-![coffee](https://media.tenor.com/-pqzLO-acTwAAAAd/chainsaw-man-coffee.gif)
+![coffee](https://media.discordapp.net/attachments/1071926375717556325/1075700809611882496/Screenshot_20230216_124814.png?width=1080&height=292)
 
 I'm [Jonathan Feng]()
 
