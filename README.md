@@ -12,9 +12,9 @@ I'm [Jonathan Feng]()
 
 
 ##### General Programming Skills:
-<div>
+
 [![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)](https://)
-</div>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="30" height="30"/>
