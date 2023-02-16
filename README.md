@@ -16,7 +16,6 @@ I'm [Jonathan Feng]()
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)](https://)
 [![R](https://img.shields.io/badge/R-grey?style=for-the-badge&logo=r&logoColor=blue)](https://)
 [![mysql](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=black)](https://)
-
 [![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)](https://)
 [![css](https://img.shields.io/badge/css-red?style=for-the-badge&logo=css3&logoColor=white)](https://)
 [![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://)
@@ -25,25 +24,16 @@ I'm [Jonathan Feng]()
 
 ##### Data Analytics | Engineering Skills:
 
+[![airflow](https://img.shields.io/badge/airflow-grey?style=for-the-badge&logo=apache+airflow)](https://)
+[![docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightblue?style=for-the-badge&logo=postgresql)](https://)
-[![sqlite](https://img.shields.io/badge/sqlite-teal?style=for-the-badge&logo=sqlite)](https://)
 [![snowflake](https://img.shields.io/badge/snowflake-white?style=for-the-badge&logo=snowflake)](https://)
-
+[![sqlite](https://img.shields.io/badge/sqlite-teal?style=for-the-badge&logo=sqlite)](https://)
 [![DBT](https://img.shields.io/badge/DBT-grey?style=for-the-badge&logo=dbt&logoColor=orange)](https://)
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Pgsql" **alt="Pgsql" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" **alt="Sqlite" width="30" height="30"/>
-  <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" title="Snowflake"  alt="Snowflake" width="30" height="30"/>
-
-  <img src="https://airflow.apache.org/docs/apache-airflow/1.10.6/_images/pin_large.png" title="airflow" alt="airflow" width="30" height="30"/>
-  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png"  title="dbt" alt="dbt" width="30" height="30"/>
-  <img src="https://user-images.githubusercontent.com/25474239/28386245-9a1f06d2-6c90-11e7-8095-ff19b586c9ab.png" title="looker" alt="looker" width="30" height="30"/>
-</div>
-
+[![looker](https://img.shields.io/badge/looker-C8A2C8?style=for-the-badge&logo=looker&logoColor=white)](https://)
+[![powerBI](https://img.shields.io/badge/powerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://)
+[![metabase](https://img.shields.io/badge/metabase-white?style=for-the-badge&logo=metabase)](https://)
 
 #### Socials
 
-<a href="https://www.linkedin.com/in/j-feng/">
-  <img align="left" alt="Jay-Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[![linkedin](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/j-feng/)
