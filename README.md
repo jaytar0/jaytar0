@@ -34,6 +34,6 @@
 [![powerBI](https://img.shields.io/badge/powerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://)
 [![metabase](https://img.shields.io/badge/metabase-white?style=for-the-badge&logo=metabase)](https://)
 
-#### Socials
+#### Feel free to check out my socials!
 
 [![linkedin](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/j-feng/)
