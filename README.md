@@ -15,6 +15,8 @@ I'm [Jonathan Feng]()
 
 [![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)](https://)
 
+[![R](https://img.shields.io/badge/R-grey?style=for-the-badge&logo=r&logoColor=blue)](https://)
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="30" height="30"/>
