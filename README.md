@@ -15,16 +15,12 @@ I'm [Jonathan Feng]()
 
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)](https://)
 [![R](https://img.shields.io/badge/R-grey?style=for-the-badge&logo=r&logoColor=blue)](https://)
+[![mysql](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=black)](https://)
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>
+[![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)](https://)
+[![css](https://img.shields.io/badge/css-red?style=for-the-badge&logo=css3&logoColor=white)](https://)
+[![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://)
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
-</div>
 
 
 ##### Data Analytics | Engineering Skills:
