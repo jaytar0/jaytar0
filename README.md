@@ -13,8 +13,7 @@ I'm [Jonathan Feng]()
 
 ##### General Programming Skills:
 
-[![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)](https://)
-
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)](https://)
 [![R](https://img.shields.io/badge/R-grey?style=for-the-badge&logo=r&logoColor=blue)](https://)
 
 <div>
@@ -29,6 +28,13 @@ I'm [Jonathan Feng]()
 
 
 ##### Data Analytics | Engineering Skills:
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightblue?style=for-the-badge&logo=postgresql)](https://)
+[![sqlite](https://img.shields.io/badge/sqlite-teal?style=for-the-badge&logo=sqlite)](https://)
+[![snowflake](https://img.shields.io/badge/snowflake-white?style=for-the-badge&logo=snowflake)](https://)
+
+[![DBT](https://img.shields.io/badge/DBT-grey?style=for-the-badge&logo=dbt&logoColor=orange)](https://)
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Pgsql" **alt="Pgsql" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" **alt="Sqlite" width="30" height="30"/>
