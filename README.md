@@ -1,6 +1,6 @@
 ![coffee](https://media.discordapp.net/attachments/1071926375717556325/1075700809611882496/Screenshot_20230216_124814.png?width=1080&height=292)
 
-### I'm [Jonathan Feng]()
+### I'm [Jonathan Feng](https://jaytar0.github.io/)
 
 
 - 🛠️ Former Applications Analyst (contractor) at [Synopsys](https://www.synopsys.com/software-integrity/info/sig.html?utm_source=google&utm_medium=cpc&utm_term=synopsys&utm_campaign=G_S_Brand_US&cmp=ps-SIG-G_S_Brand_US&gclid=CjwKCAiAleOeBhBdEiwAfgmXf0g_o-mlxZFc_HuhfAhbkUpQ2MevSxU4G8c6GESV2AMmnPOvdK512hoCE9oQAvD_BwE)
@@ -37,4 +37,4 @@
 #### Feel free to check out my socials!
 
 [![linkedin](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/j-feng/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6441a5?style=for-the-badge&logo=microsoftedge&logoColor=taro)](https://www.linkedin.com/in/j-feng/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6441a5?style=for-the-badge&logo=microsoftedge&logoColor=taro)](https://jaytar0.github.io/)
