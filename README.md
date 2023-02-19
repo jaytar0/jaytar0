@@ -10,7 +10,7 @@
 - ✨ Fun fact! I love building custom mechanical keyboards and making my own coffee <3
 
 
-##### General Programming Skills
+#### General Programming Skills
 
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)](https://)
 [![R](https://img.shields.io/badge/R-grey?style=for-the-badge&logo=r&logoColor=blue)](https://)
@@ -21,7 +21,7 @@
 
 
 
-##### Data Analytics | Engineering Skills
+#### Data Analytics | Engineering Skills
 
 [![airflow](https://img.shields.io/badge/airflow-grey?style=for-the-badge&logo=apache+airflow)](https://)
 [![docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://)
