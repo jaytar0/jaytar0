@@ -3,8 +3,8 @@
 ### I'm [Jonathan Feng](https://jaytar0.github.io/)
 
 
-- 🛠️ Former Applications Analyst (contractor) at [Synopsys](https://www.synopsys.com/software-integrity/info/sig.html?utm_source=google&utm_medium=cpc&utm_term=synopsys&utm_campaign=G_S_Brand_US&cmp=ps-SIG-G_S_Brand_US&gclid=CjwKCAiAleOeBhBdEiwAfgmXf0g_o-mlxZFc_HuhfAhbkUpQ2MevSxU4G8c6GESV2AMmnPOvdK512hoCE9oQAvD_BwE)
-- 💬 Currently searching for a job in the data analyst/engineer space and applying to gradudate programs!
+- 🛠️ Former Applications Analyst (contractor)
+- 💬 Currently searching for a job in the data analyst/engineer space and attending a graduate master of data science program in Fall 2023
 - 🔭 In the meantime I'm working on some personal projects that interest me within the data industry
 - 🌱 Currently learning cloud technologies and C++
 - ✨ Fun fact! I love building custom mechanical keyboards and making my own coffee <3
