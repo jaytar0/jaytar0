@@ -4,7 +4,7 @@
 
 
 - 🛠️ Former Applications Analyst (contractor)
-- 💬 Currently searching for a job in the data analyst/engineer space and attending a graduate master of data science program in Fall 2023
+- 💬 Currently searching for a job in the data space and attending a graduate master of data science program in Fall 2023
 - 🔭 In the meantime I'm working on some personal projects that interest me within the data industry
 - 🌱 Currently learning cloud technologies and C++
 - ✨ Fun fact! I love building custom mechanical keyboards and making my own coffee <3
