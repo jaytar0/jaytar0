@@ -3,7 +3,7 @@
 ### I'm [Jonathan Feng](https://jaytar0.github.io/)
 
 
-- 🛠️ Former Applications Analyst (contractor)
+- 🛠️ Former Applications Engineer (contractor)
 - 💬 Currently searching for a job in the data space and attending a graduate master of data science program in Fall 2023
 - 🔭 In the meantime I'm working on some projects pertaining to data engineering / science
 - 🌱 Currently learning cloud technologies and C++
