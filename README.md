@@ -3,8 +3,7 @@
 ### I'm [Jonathan Feng](https://jaytar0.github.io/)
 
 
-- 🛠️ Former Applications Engineer (contractor)
-- 💬 Currently searching for a job in the data space and attending a graduate master of data science program in Fall 2023
+- 💬 Currently searching for a job in the data space and currently finishing a Masters for Data Science @Georgia Tech
 - 🔭 In the meantime I'm working on some projects pertaining to data engineering / science
 - 🌱 Currently learning cloud technologies and C++
 - ✨ Fun fact! I love building custom mechanical keyboards and making my own coffee <3
