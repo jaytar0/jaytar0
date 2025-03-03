@@ -3,7 +3,7 @@
 
 - 💬 Currently searching for a job in the data space and currently finishing a Masters for Data Science @Georgia Tech
 - 🔭 In the meantime I'm working on some projects pertaining to data engineering / science
-- 🌱 Currently learning cloud technologies and C++
+- 🌱 Currently learning cloud technologies and Rust
 - ✨ Fun fact! I love building custom mechanical keyboards and making my own coffee <3
 
 
