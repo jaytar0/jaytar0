@@ -1,9 +1,9 @@
 ### I'm [Jonathan Feng](https://jaytar0.github.io/)
 
 
-- 💬 Currently searching for a job in the data space and currently finishing a Masters for Data Science @Georgia Tech
-- 🔭 In the meantime I'm working on some projects pertaining to data engineering / science
-- 🌱 Currently learning cloud technologies and Rust
+- 💬 Currently an Associate Data Engineer finishing a Masters in Data Science @Georgia Tech OMSA Program
+- 🔭 In my downtime I'm working on some personal projects (OCR Language App, Takotype)
+- 🌱 Currently learning Microsoft Fabric
 - ✨ Fun fact! I love building custom mechanical keyboards and making my own coffee <3
 
 
