@@ -19,8 +19,8 @@
 
 
 #### Tech Stack
-[![Microsoft Fabric][(https://img.shields.io/badge/Microsoft%20Fabric‑blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/fabric)](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Microsoft Fabric](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://)
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)(https://)
 [![powerBI](https://img.shields.io/badge/powerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://)
 
 [![docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://)
