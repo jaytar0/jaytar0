@@ -18,18 +18,21 @@
 
 
 
-#### Data Analytics | Engineering Skills
+#### Tech Stack
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric‑version‑blue.svg)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-2019-blue)
+[![powerBI](https://img.shields.io/badge/powerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://)
 
-[![airflow](https://img.shields.io/badge/airflow-grey?style=for-the-badge&logo=apache+airflow)](https://)
 [![docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://)
+[![airflow](https://img.shields.io/badge/airflow-grey?style=for-the-badge&logo=apache+airflow)](https://)
+
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightblue?style=for-the-badge&logo=postgresql)](https://)
 [![snowflake](https://img.shields.io/badge/snowflake-white?style=for-the-badge&logo=snowflake)](https://)
 [![sqlite](https://img.shields.io/badge/sqlite-teal?style=for-the-badge&logo=sqlite)](https://)
 
 [![DBT](https://img.shields.io/badge/DBT-white?style=for-the-badge&logo=dbt&logoColor=orange)](https://)
 [![looker](https://img.shields.io/badge/looker-6441a5?style=for-the-badge&logo=looker&logoColor=white)](https://)
-[![powerBI](https://img.shields.io/badge/powerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://)
-[![metabase](https://img.shields.io/badge/metabase-white?style=for-the-badge&logo=metabase)](https://)
+
 
 #### Feel free to check out my socials!
 
