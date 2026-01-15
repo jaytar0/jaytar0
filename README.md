@@ -2,8 +2,8 @@
 
 
 - 💬 Currently a Data Engineer finishing a Masters in Data Science @Georgia Tech OMSA Program
-- 🔭 In my downtime I'm working on some personal projects (OCR Language App, Takotype)
-- 🌱 Currently learning Microsoft Fabric
+- 🔭 In my downtime I'm working on some personal projects (OCR Language App, Rust, DataBricks Certs)
+- 🌱 Currently learning <>
 - ✨ Fun fact! I love building custom mechanical keyboards and making my own coffee <3
 
 
