@@ -1,11 +1,12 @@
-### I'm [Jonathan Feng](https://jaytar0.github.io/)
+### I'm [Jonathan Feng]()
 
 
-- 💬 Currently a Data Engineer finishing a Masters in Data Science @Georgia Tech OMSA Program
-- 🔭 In my downtime I'm working on some personal projects (OCR Language App, Rust, DataBricks Certs)
-- 🌱 Currently learning <>
+- 💬 Currently a Data Engineer finishing a Masters in Data Science @Georgia Tech OMSA Program 2026
+- 🌱In my downtime I'm working on some personal projects (OCR Language App, Rust, DataBricks Certs) 
 - ✨ Fun fact! I love building custom mechanical keyboards and making my own coffee <3
 
+### Pinned Projects
+Recent work showcasing data engineering and machine learning experimentation.
 
 #### General Programming Skills
 
