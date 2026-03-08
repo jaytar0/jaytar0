@@ -40,7 +40,3 @@
 #### Visualization
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://)
 [![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://)
-
-#### Feel free to check out my socials!
-
-[![linkedin](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/j-feng/)
