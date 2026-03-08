@@ -8,25 +8,23 @@
 ### Pinned Projects
 Recent work showcasing data engineering and machine learning experimentation.
 
-### Tech Stack
-
+## Tech Stack
 #### Languages
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)](https://)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://)
 [![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=fff)](#)
 [![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)](#)
-[![R](https://img.shields.io/badge/R-grey?style=for-the-badge&logo=r&logoColor=blue)](https://)
-[![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)](https://)
-[![css](https://img.shields.io/badge/css-red?style=for-the-badge&logo=css3&logoColor=white)](https://)
-[![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://)
-
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://)
 
 #### Library Specific
 [![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=fff)](#)
 [![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=fff)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
-[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=fff)](#)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
 
 #### Misc
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](https://)
@@ -36,21 +34,20 @@ Recent work showcasing data engineering and machine learning experimentation.
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)](#)
 
 #### Data Engineering
-[![Microsoft Fabric](https://img.shields.io/badge/microsoft%20fabric-0089D6?style=for-the-badge&logo=microsoft-fabric&logoColor=white)](https://)
-[![airflow](https://img.shields.io/badge/airflow-grey?style=for-the-badge&logo=apache+airflow)](https://)
+[![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://)
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://)
 
 #### Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightblue?style=for-the-badge&logo=postgresql)](https://)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://)
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![sqlite](https://img.shields.io/badge/sqlite-teal?style=for-the-badge&logo=sqlite)](https://)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://)
 
 #### ML
-[![MLflow](https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black)](#)
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](#)
 
 #### Visualization
-[![powerBI](https://img.shields.io/badge/powerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://)
-[![looker](https://img.shields.io/badge/looker-6441a5?style=for-the-badge&logo=looker&logoColor=white)](https://)
-
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://)
+[![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://)
 
 #### Feel free to check out my socials!
 
