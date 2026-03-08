@@ -12,11 +12,13 @@ Recent work showcasing data engineering and machine learning experimentation.
 
 #### Languages
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)](https://)
+[![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=fff)](#)
 [![R](https://img.shields.io/badge/R-grey?style=for-the-badge&logo=r&logoColor=blue)](https://)
-[![TSQL](https://img.shields.io/badge/mysql-teal?style=for-the-badge&logo=mysql&logoColor=white)](https://)
+[![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)](#)
 [![html](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=white)](https://)
 [![css](https://img.shields.io/badge/css-red?style=for-the-badge&logo=css3&logoColor=white)](https://)
 [![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://)
+
 
 #### Misc
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](https://)
