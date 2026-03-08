@@ -38,4 +38,3 @@ Recent work showcasing data engineering and machine learning experimentation.
 #### Feel free to check out my socials!
 
 [![linkedin](https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/j-feng/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6441a5?style=for-the-badge&logo=microsoftedge&logoColor=taro)](https://jaytar0.github.io/)
