@@ -34,10 +34,6 @@ Recent work showcasing data engineering and machine learning experimentation.
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![sqlite](https://img.shields.io/badge/sqlite-teal?style=for-the-badge&logo=sqlite)](https://)
 
-#### DevOps
-[![docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)](https://)
-[![airflow](https://img.shields.io/badge/airflow-grey?style=for-the-badge&logo=apache+airflow)](https://)
-
 #### Visualization
 [![powerBI](https://img.shields.io/badge/powerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=white)](https://)
 [![looker](https://img.shields.io/badge/looker-6441a5?style=for-the-badge&logo=looker&logoColor=white)](https://)
