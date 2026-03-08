@@ -5,7 +5,7 @@
 - 🌱 Building: OCR-powered language learning app, learning Rust, pursuing Databricks certification
 - ✨ Fun fact! I love building custom mechanical keyboards and making my own coffee <3
 
-## Tech Stack
+### Tech Stack
 #### Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](https://)
 [![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)](#)
