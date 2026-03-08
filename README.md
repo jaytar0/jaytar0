@@ -1,12 +1,12 @@
 ### I'm [Jonathan Feng]()
 
 
-- 💬 Currently a Data Engineer finishing a Masters in Data Science @Georgia Tech OMSA Program 2026
-- 🌱In my downtime I'm working on some personal projects (OCR Language App, Rust, DataBricks Certs) 
+- 💼 Data Engineer | Georgia Tech OMSA '26
+- 🌱 Building: OCR-powered language learning app, learning Rust, pursuing Databricks certification
 - ✨ Fun fact! I love building custom mechanical keyboards and making my own coffee <3
 
 ### Pinned Projects
-Recent work showcasing data engineering and machine learning experimentation.
+Recent work in data engineering, ML pipelines, and infrastructure.
 
 ## Tech Stack
 #### Languages
