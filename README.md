@@ -2,7 +2,7 @@
 
 
 - 💼 Data Engineer | Georgia Tech OMSA '26
-- 🌱 Building: OCR-powered language learning app, learning Rust
+- 🌱 Building: OCR-App building, learning Rust
 - ✨ Fun fact! I love building custom mechanical keyboards and making my own coffee <3
 
 ### Tech Stack
